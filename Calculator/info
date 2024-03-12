@@ -1,0 +1,14 @@
+1. Basic Arithmetic Operations
+
+- **Addition:** Allows users to add numbers by clicking the "+" button.
+- **Subtraction:** Supports subtraction operations using the "-" button.
+- **Multiplication:** Enables multiplication using the "x" button.
+- **Division:** Facilitates division calculations with the "/" button.
+
+### 2. Responsive Design
+
+The calculator is designed to provide a seamless user experience across various devices and screen sizes. Whether on a desktop, tablet, or mobile device, users can comfortably perform calculations without loss of functionality or visual appeal.
+
+### 3. Clear Functionality
+
+The calculator includes a clear button ("C") that resets the display, allowing users to start a new calculation easily. This feature enhances user convenience and overall usability.
